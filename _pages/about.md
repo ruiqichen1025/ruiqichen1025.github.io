@@ -35,7 +35,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 [Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675)
 
-Qingyang He, Weicheng Zheng, Hanxi Bao,**Ruiqi Chen**, Xin Tong
+Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 [**Project**](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper investigates designers' experiences and challenges when collaborating with generative AI tools as co-creative agents in multi-stakeholder design processes, using avatar design as a case study to uncover insights and opportunities for improving human-AI co-creation.

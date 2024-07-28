@@ -44,7 +44,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao,**Ruiqi Chen**, Xin Tong
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
 [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/)
 

@@ -63,8 +63,8 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 # 📖 Educations
 * M.S. in Human Centered Design & Engineering, University of Washington, 2024 - 2026
-* B.S. in Interdisciplinary Studies of Data Science, Duke University, 2020 -2024
-* B.S. in Data Science, Duke Kunshan University, 2020 -2024
+* B.S. in Interdisciplinary Studies of Data Science, Duke University, 2020 - 2024
+* B.S. in Data Science, Duke Kunshan University, 2020 - 2024
 
 # 📚 Experiences
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington

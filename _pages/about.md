@@ -75,7 +75,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 * [Technology, Equity, and Accessibility (TEA) Lab](https://tealab.sites.northeastern.edu/), Northeastern University
   * Graduate Research Assistant to [Prof. Maitraye Das](https://maitraye.github.io/)
   * Date: May 2024 – Present
-  * Contribute to two research project, focusing on HCI and info tech.
+  * Contribute to two research projects, focusing on HCI and info tech.
 
 * [Behavioral Enhancement and Adaptive Reality (BEAR) Lab](https://rochester-bear-lab.github.io/), University of Rochester
   * Graduate Research Assistant to [Prof. Yukang Yan](https://rochester-bear-lab.github.io/yukang)    
@@ -91,12 +91,12 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 * [Human-Computer Interaction (HCI) Lab](https://dkuhcigroup.github.io/), Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)    
   * Date: March 2022 – September 2024
-  * Contribute to five research project, focusing on HCI, AI, and VR.
+  * Contribute to five research projects, focusing on HCI, AI, and VR.
 
 * Anthropocene Extended Reality (XR) Lab, Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Jung Choi](https://jungchoi.org/) and [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)   
   * Date: May 2022 – September 2024
-  * Contribute to two research project, focusing on HCI, AR and MR. 
+  * Contribute to two research projects, focusing on HCI, AR and MR. 
 
 
 

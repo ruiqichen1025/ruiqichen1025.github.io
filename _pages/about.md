@@ -52,7 +52,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 * B.S. in Interdisciplinary Studies of Data Science, Duke University, 2020 -2024
 * B.S. in Data Science, Duke Kunshan University, 2020 -2024
 
-# ![alt text](image-1.png)Experiences
+# 📚 Experiences
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) 
   * Date: May 2024 – Present
@@ -91,4 +91,5 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - 2023.08*, Artificial Intelligence Engineer Intern, Nanjing Institute of Mathware Technology, China.
+- *2021.06 - 2021.08*, Software Engineering Process Group Intern, China Unicom Smart Connection Technology, China.

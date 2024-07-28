@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Ruiqi Chen, I will join the [Human Centered Design & Engineering](https://www.hcde.washington.edu/) program at the [University of Washington](https://www.washington.edu/) as a graduate student in Fall 2024. Previously, I received my dual Bachelor's degree in Data Science from Duke University and Duke Kunshan University in May 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie primarily at the intersection of Human-Computer Interaction(HCI) and Artificial Intelligence(AI), combining human and machine intelligence to create interactive systems for accessibility, collaboration, and beyond. In my past three years of research experience, my research scope has included Human-Centered AI, Human-AI Collaboration, Computer Vision, Machine Learning, Extended Reality (XR), and Virtual Reality (VR).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 I joined the BEAR Lab directed by Prof. Yukang Yan at University of Rochester, and was also accepted into the Access Computing Summer Program 2024 by TsinghuaHCIGroup at Tsinghua University!
+- *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
+- *2024.05*: &nbsp;🎉🎉 I joined the TEA Lab directed by Prof. Maitraye Das at Northeastern University!
 
 # 📝 Publications 
 

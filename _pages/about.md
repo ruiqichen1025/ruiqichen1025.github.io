@@ -39,7 +39,8 @@ Qingyang He, Weicheng Zheng, Hanxi Bao,**Ruiqi Chen**, Xin Tong
 
 [**Project**](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper investigates designers' experiences and challenges when collaborating with generative AI tools as co-creative agents in multi-stakeholder design processes, using avatar design as a case study to uncover insights and opportunities for improving human-AI co-creation.
-
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>

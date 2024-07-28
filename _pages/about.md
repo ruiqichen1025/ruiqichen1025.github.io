@@ -37,11 +37,11 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
 
 [**Project**](https://ieeexplore.ieee.org/document/10108617/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper explores the use of Virtual Reality technology to enhance cognitive therapies for patients with mild cognitive impairment and mild dementia, incorporating insights from both patients and key stakeholders like caregivers and therapists to improve therapy design and effectiveness. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->

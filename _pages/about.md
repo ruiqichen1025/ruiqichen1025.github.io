@@ -55,6 +55,8 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 </div>
 </div>
 
+There are also 5 CHI manuscripts, 1 UIST manuscript, 1 ICONIP manuscript, and 1 IJHCI manuscript in submitting or under reviewing process.  If you want to learn more about these research projects please contact me for further details!
+
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 <!--# 🎖 Honors and Awards-->

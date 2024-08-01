@@ -57,6 +57,15 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 **About Manuscripts**: There are also 5 CHI manuscripts, 1 UIST manuscript, 1 ICONIP manuscript, and 1 IJHCI manuscript in submitting or under reviewing process.  If you want to learn more about these research projects please contact me for further details!
 
+- Enhancing Rehabilitation of Oral and Spoken Abilities among Deaf and Hard of Hearing Children (plan to be submitted to CHI 25)
+- Practices and Challenges of the Travel Experiences and Communication of the Deaf and Hard of Hearing (plan to be submitted to CHI 25)
+- Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (plan to be submitted to CHI 25)
+- Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (plan to be submitted to CHI 25)
+- Avatar Control in Virtual Reality Leveraging Physical Objects (plan to be submitted to CHI 25)
+- Drone-based Indoor Accessibility Mapping (submitted to UIST 2024)
+- NSZT: Enhancing Intercultural Empathy through Virtual Reality (To be submitted to International Journal of Human-Computer Interaction)
+- Revitalizing Public Spaces with Augmented Reality Art on Campus (in submitting process)
+- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles (submitted to ICONIP 2024)
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 <!--# 🎖 Honors and Awards-->

@@ -56,10 +56,12 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 </div>
 
 **Recently accepted paper**
-- **DIAM: Drone-based Indoor Accessibility Mapping**, accepted by **UIST 2024 Demo Track**
+- **DIAM: Drone-based Indoor Accessibility Mapping**, accepted by **UIST 2024**
   - Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich 
 
 **About Manuscripts**: There are also 5 CHI manuscripts, 1 ICONIP manuscript, and 1 IJHCI manuscript in submitting or under reviewing process.  If you want to learn more about these research projects please contact me for further details!
+- [AgentAvatar](https://www.xiaowenyuan.design/agent), plan to submit to CHI 2025
+  - Xiaowen Yuan, **Ruiqi Chen**, Sunny Yu, Yukang Yan
 
 <!--- 
 - Enhancing Rehabilitation of Oral and Spoken Abilities among Deaf and Hard of Hearing Children (plan to be submitted to CHI 25)

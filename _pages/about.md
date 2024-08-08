@@ -57,7 +57,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 **Recently accepted paper**
 - **DIAM: Drone-based Indoor Accessibility Mapping**, accepted by **UIST 2024 Demo Track**
-  - Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Professor Jon E. Froehlich 
+  - Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich 
 
 **About Manuscripts**: There are also 5 CHI manuscripts, 1 ICONIP manuscript, and 1 IJHCI manuscript in submitting or under reviewing process.  If you want to learn more about these research projects please contact me for further details!
 

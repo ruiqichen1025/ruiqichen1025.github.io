@@ -82,6 +82,11 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 * B.S. in Data Science, Duke Kunshan University, 2020 - 2024
 
 # 📚 Experiences
+* [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
+  * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
+  * Date: Sep 2024 – Present
+  * Contribute to one research project, focusing on HCI, AI and accessibility.
+
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) 
   * Date: May 2024 – Present

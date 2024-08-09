@@ -29,6 +29,17 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/DIAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DIAM: Drone-based Indoor Accessibility Mapping](https://makeabilitylab.cs.washington.edu/project/diam/)
+
+Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
+
+[**Project**](https://makeabilitylab.cs.washington.edu/media/publications/Su_DiamDrone-BasedIndoorAccessibilityMapping_UIST20242024.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper introduce Drone-based Indoor Accessibility Mapping (DIAM), a drone-based indoor scanning system that efficiently produces 3D reconstructions of indoor spaces with key accessibility facilities recognized and located in the model. With DIAM, users can scan indoor spaces quickly and generate a precise, detailed, and visual 3D indoor accessibility map.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2023</div><img src='images/AIGC_DKU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,9 +66,8 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 </div>
 </div>
 
-**Recently accepted paper**
-- **DIAM: Drone-based Indoor Accessibility Mapping**, accepted by **UIST 2024**
-  - Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich 
+<!---**Recently accepted paper**-->
+
 
 **About Manuscripts**: There are also 5 CHI manuscripts, 1 ICONIP manuscript, and 1 IJHCI manuscript in submitting or under reviewing process.  If you want to learn more about these research projects please contact me for further details!
 - [**AgentAvatar in Virtual Reality**](https://www.xiaowenyuan.design/agent), plan to submit to CHI 2025
